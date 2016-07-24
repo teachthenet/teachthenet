@@ -13,6 +13,7 @@
 - [GHYouth](https://github.com/teachthenet/GHYouth), a 'minecraft-python hackathon' challenge designed to introduce people to the concept of programming in minecraft and then let them loose to build whatever they want, hackathon style, in a single night.
 - [Megsss](https://github.com/teachthenet/Megsss), a 2 week long course of lessons designed for advanced placement 6th graders with no programming experience.
 
-##### Other cool (unaffiliated) minecraft programming projects
+##### Other cool (unaffiliated) similar programming projects
 - [Forcecraft](https://github.com/metadaddy/Forcecraft), a java mod representing (and editing) Salesforce CRM data in a minecraft world. (Basically making the minecraft world a database you can walk around in and interact with).
 - [minecraft-starwars](https://github.com/martinohanlon/minecraft-starwars), a python project that animates the star wars films inside the minecraft world! Well worth watching and reviewing the code!
+- [blaze-extreme-container-manager](https://github.com/wehkamp/blaze-extreme-container-manager), manage your Mesos platform by [playing Gary's mod](https://www.youtube.com/watch?v=r0pAzujyM-M)
