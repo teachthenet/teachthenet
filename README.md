@@ -4,7 +4,7 @@
 
 ##### Server
 
-- Run your own using the [TeachCraft-Server repository](https://github.com/teachthenet/TeachCraft-Server)
+- [TeachCraft-Server](https://github.com/teachthenet/TeachCraft-Server) allows you to run your own multiplayer minecraft server that people can connect to with python code.
 - Connect to my minecraft server located at `199.96.85.3:25570`, and then use `minecraft.Minecraft.create(address="199.96.85.3")` to connect to it via code.
 
 ##### Client
