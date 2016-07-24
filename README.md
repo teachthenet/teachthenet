@@ -1,3 +1,10 @@
+# Web Development
+
+#### Building a website
+- [Web App Lesson 1](https://github.com/teachthenet/Web-App-Lesson-1), crafting a static website via Neocities that anyone can see, learning basic html and googling skills.
+- [Web App Lesson 2](https://github.com/teachthenet/Web-App-Lesson-2), crafting a static website built off Bootstrap, viewing source code of websites, connecting CSS/JS files to your website.
+- [Web App Lesson 3](https://github.com/teachthenet/Web-App-Lesson-3), crafting a dynamic website, using Google Forms + Google Spreadsheet as your first database exposure.
+
 # Minecraft + Python
 
 #### Python Intro
