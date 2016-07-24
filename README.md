@@ -1,6 +1,4 @@
-# TeachTheNet
-
-### Minecraft + Python
+# Minecraft + Python
 
 #### Python Intro
 - [Megsss Lesson 1](https://github.com/teachthenet/Megsss/blob/master/lessons/1_intro_to_python.md), basic intro to printing and math in python
