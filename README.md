@@ -15,5 +15,5 @@
 
 ##### Other cool (unaffiliated) similar programming projects
 - [Forcecraft](https://github.com/metadaddy/Forcecraft), a java mod representing (and editing) Salesforce CRM data in a minecraft world. (Basically making the minecraft world a database you can walk around in and interact with).
-- [minecraft-starwars](https://github.com/martinohanlon/minecraft-starwars), a python project that animates the star wars films inside the minecraft world! Well worth watching and reviewing the code!
+- [minecraft-starwars](https://github.com/martinohanlon/minecraft-starwars), a python project that animates the star wars films inside the minecraft world! Well worth [watching](https://www.youtube.com/watch?v=pufDQo9o0gk) and reviewing the code!
 - [blaze-extreme-container-manager](https://github.com/wehkamp/blaze-extreme-container-manager), manage your Mesos platform by [playing Gary's mod](https://www.youtube.com/watch?v=r0pAzujyM-M)
