@@ -12,3 +12,7 @@
 - [TeachCraft-Challenges](https://github.com/teachthenet/TeachCraft-Challenges), the original repo. Walks through the various lessons line by line, gives challenges with each lesson. Links some more complex projects for advanced users.
 - [GHYouth](https://github.com/teachthenet/GHYouth), a 'minecraft-python hackathon' challenge designed to introduce people to the concept of programming in minecraft and then let them loose to build whatever they want, hackathon style, in a single night.
 - [Megsss](https://github.com/teachthenet/Megsss), a 2 week long course of lessons designed for advanced placement 6th graders with no programming experience.
+
+##### Other cool minecraft programming projects
+- [Forcecraft](https://github.com/metadaddy/Forcecraft), a java mod representing (and editing) Salesforce CRM data in a minecraft world. (Basically making the minecraft world a database you can walk around in and interact with).
+- [minecraft-starwars](https://github.com/martinohanlon/minecraft-starwars), a python project that animates the star wars films inside the minecraft world! Well worth watching and reviewing the code!
